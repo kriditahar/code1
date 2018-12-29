@@ -1,6 +1,6 @@
 client.on("guildMemberAdd", member => {
-        if(member.guild.id === "527900132495065088") {  
-  const channel = member.guild.channels.find('id', '527902237431693352'); 
+        if(member.guild.id === "آيدي السيرفر") {
+  const channel = member.guild.channels.find('id', 'آيدي الروم'); 
 if (!channel) return;
-channel.send(`**<@${member.user.id}> **welcome in server ToKyO CiTy**:rose:`)
+channel.send(**<@${member.user.id}> الكلمه الي تبيها)
 }}); // by: faisal
